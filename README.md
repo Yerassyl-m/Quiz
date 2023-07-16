@@ -1,1 +1,1 @@
-# Quiz
+In this project, I did Quiz. There I checked the answers and counted the points. If it comes out correct, then it is written correctly, if it is not correct, then it is written incorrectly. At the end it comes out how many points received.
