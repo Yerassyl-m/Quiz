@@ -1,1 +1,2 @@
-In this project, I did Quiz. There I checked the answers and counted the points. If it comes out correct, then it is written correctly, if it is not correct, then it is written incorrectly. At the end it comes out how many points received.
+Quiz
+Developed a quiz that provides an opportunity to test the knowledge of users. The quiz checks the answers and calculates the points scored. If the answer is correct, a message about correctness is displayed, and with an incorrect answer - a message about infidelity. At the end of the quiz, the user receives information about their final score.
